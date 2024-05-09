@@ -1,0 +1,14 @@
+.header{
+  display: block;
+  width: 100%;
+  text-align: center;
+  color: rgb(84, 149, 255);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.wrapper{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}

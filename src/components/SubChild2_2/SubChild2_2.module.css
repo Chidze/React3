@@ -1,0 +1,12 @@
+.header{
+    font-size: 20px;
+    font-style: italic;
+    margin: 20px;
+    border: 1px solid rgb(0, 144, 233);
+    padding: 8px;
+}
+.text{
+    color: rgb(88, 234, 65);
+    font-size: 20px;
+
+}

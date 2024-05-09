@@ -1,0 +1,39 @@
+.list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.profile{
+    width: 30%;
+    height: 680px;
+    border: 1px solid rgb(143, 200, 228);
+    border-radius: 7px;
+    margin: 8px;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    width: 100%;
+    text-align: center;
+    font-size: 22px;
+    color: rgb(61, 135, 195);
+    font-family: monospace;
+    font-weight: 700;
+}
+.line{
+    height: 1px;
+    background-color: rgb(143, 200, 228);
+    width: 90%;
+    border: none;
+}
+.button{
+    width: 50%;
+    height: 28px;
+    border: none;
+    background-color:rgb(143, 200, 228);
+    border-radius: 15px;
+    margin-top: 20px;
+    justify-self: center;
+    align-self: center;
+}
